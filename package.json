@@ -1,0 +1,20 @@
+{
+  "name": "programming-logic-exercises",
+  "version": "1.0.0",
+  "description": "This repository is for the programming logic exercises that I will be doing weekly, I will share the statements and how to solve each of the exercises, I will also share a small review of what I have learned from each of the exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosbult/programming-logic-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosbult/programming-logic-exercises/issues"
+  },
+  "homepage": "https://github.com/carlosbult/programming-logic-exercises#readme"
+}
